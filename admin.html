@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Admin Page</title>
+	</head>
+	<body>
+		<header>
+			<img src="tavisca.png" alt="tavisca-image">
+		</header>
+		<nav>
+			<button id="cars" onclick="CreateForm('Car')">Cars</button>
+			<button id="flights" onclick="CreateForm('Air')">Flights</button>
+			<button id="hotels" onclick="CreateForm('Hotel')">Hotels</button>
+			<button id="activity" onclick="CreateForm('Activity')">Activities</button>
+		</nav>
+		<form id = "displayform">
+		</form>
+	</body>
+	<script src="admin.js"></script>
+</html>
