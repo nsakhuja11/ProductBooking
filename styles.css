@@ -1,0 +1,56 @@
+header {
+	text-align: center;
+}
+
+img {
+	padding: 20px;
+}
+
+nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+nav button {
+	padding: 10px 20px;
+	margin: 15px;
+}
+
+#displaylist {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 10px;
+}
+
+#displayform {
+	text-align: center;
+}
+
+#displayform input {
+	width: 250px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.btns {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.homeButton {
+	padding: 10px 35px;
+    margin: 20px;
+    width: 185px;
+}
+
+td, th {
+	padding: 10px 25px;
+}
+
+table button {
+	padding: 10px 20px;
+	margin: 2px;
+}

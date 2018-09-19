@@ -1,0 +1,11 @@
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\ProductClass.dll.config
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\ProductClass.dll
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\ProductClass.pdb
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\EntityFramework.dll
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\EntityFramework.xml
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\obj\Debug\ProductClass.csprojResolveAssemblyReference.cache
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\obj\Debug\ProductClass.csproj.CoreCompileInputs.cache
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\obj\Debug\ProductClass.dll
+C:\Users\nsakhuja\source\repos\ProductApp\ProductClass\obj\Debug\ProductClass.pdb

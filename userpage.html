@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>User Page</title>
+	</head>
+	<body>
+		<header>
+			<img src="tavisca.png" alt="tavisca-image">
+		</header>
+		<nav>
+			<button id="cars" onclick="GetList('Car')">Cars</button>
+			<button id="flights" onclick="GetList('Air')">Flights</button>
+			<button id="hotels" onclick="GetList('Hotel')">Hotels</button>
+			<button id="activity" onclick="GetList('Activity')">Activities</button>
+		</nav>
+		<div id = "displaylist">
+		</div>
+	</body>
+	<script src="user.js"></script>
+</html>
